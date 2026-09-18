@@ -1,5 +1,0 @@
-baseurl      = "https://zmatthiesen1776-cloud.github.io"
-title        = "A blog about Cybersecurity"
-languageCode = "en-us"
-paginate     = 10
-publishDir = "docs"
