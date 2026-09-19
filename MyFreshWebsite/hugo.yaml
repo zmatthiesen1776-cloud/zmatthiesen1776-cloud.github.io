@@ -1,0 +1,4 @@
+baseurl: "https://zmatthiesen1776-cloud.github.io"
+locale: en-us
+theme: ["PaperMod"]
+title: My New Hugo Project
