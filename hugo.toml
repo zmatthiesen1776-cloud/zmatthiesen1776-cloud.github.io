@@ -1,0 +1,4 @@
+baseURL = 'https://zmatthiesen1776-cloud.github.io'
+locale = 'en-us'
+title = 'My New Hugo Project'
+publishDir = "docs"
