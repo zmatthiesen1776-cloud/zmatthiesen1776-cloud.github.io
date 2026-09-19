@@ -29,16 +29,16 @@ https://www.youtube.com/watch?v=0t4_MfHgb_A
 ### How to handle code reviews like a human:
  -- Stay in your lane
  -- Let the computer do the boring stuff if possible (use automations)
- -- Offer a genorous amount of code examples
- -- Never say You (dont try to play the blame game work the room)
- -- Frame feedback as requests not comments / orders (dont get must y)
+ -- Offer a generous amount of code examples
+ -- Never say You (don't try to play the blame game work the room)
+ -- Frame feedback as requests not comments / orders (don't get must - y)
  -- Offer praise when possible to give encouragement
  -- Aim to bring the code up a letter grade or two with your review
- -- Be willing to comprimise when possible
- -- Escalate with the matthew code (remember time is sometimes more value than the feature itself)
- -- Align yourself with the buisness function 
+ -- Be willing to compromise when possible
+ -- Escalate with the Matthew code (remember time is sometimes more value than the feature itself)
+ -- Align yourself with the business function 
  -- Handle Stalemates pro-actively (agree with your 'adversary' quickly while you are still in the way ...)
- -- Take managable bites and document if you can
+ -- Take manageable bites and document if you can
  -- Consider the change management process
  -- Set nesting timers to stay on course
 
@@ -82,15 +82,15 @@ https://www.youtube.com/watch?v=O2ta3YaR7gs
  Scientologists 
    VACHERON CONSTANTIN
  Briteling 
-   Roadmen / Chavs / Slavs / British rogues and wild horses
+    British rogues and wild horses
  Cartier <>
-   For women like me who do buisness on a high level
+   For women like me who do business on a high level
  HUBLOT
-   For west hollywood and vegas eletes new ed hardy stype
+   For West Hollywood and Vegas elites new ed hardy archetype 
  Sekio <>
-   Utiltaritian watch no nonsense like a classier casio
+   Utilitarian watch no nonsense like a classier Casio
  Grand Sekio <>
-   Used to procure buisness cards from bars in harijuko 
+   Used to procure business cards from bars in Harijuko 
  Tudor
    Used to procure a nod from the Speed channel and possibly british people
 
